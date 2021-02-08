@@ -1,0 +1,112 @@
+C:\Users\User\source\repos\Connect4Game\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\User\source\repos\Connect4Game\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\User\source\repos\Connect4Game\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\User\source\repos\Connect4Game\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\julia\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\julia\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\julia\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\julia\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\julia\RiderProjects\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\User\Desktop\facultadtsp\Prog3\Prog3-Connect4 (1)\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\julia\RiderProjects\Prog3-Connect4\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\julia\Desktop\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe.config
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.exe
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\bin\Debug\Connect4Game.pdb
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csprojAssemblyReference.cache
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.baml
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\MainWindow.g.cs
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\App.g.cs
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game_MarkupCompile.cache
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.g.resources
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.Properties.Resources.resources
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.GenerateResource.cache
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.exe
+C:\Users\fede\Desktop\definitive edition\Prog3-Connect4\Connect4Game\obj\Debug\Connect4Game.pdb

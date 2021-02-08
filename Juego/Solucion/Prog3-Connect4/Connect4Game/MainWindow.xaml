@@ -1,0 +1,193 @@
+﻿<Window x:Class="Connect4.MainWindow" x:Name="GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="4 en línea" Height="550" Width="400" Closing="GameWindow_Closing">
+
+    <!-- Se cambia una propiedad por defecto de todos los botones de esta ventana, para evitar que se vuelvan opacos cuando el cursor esta sobre ellos-->
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0.5" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger x:Name="Trigger" Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="1" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+        </Style>
+
+    </Window.Resources>
+
+    <!-- Grid principal (1x1), padre del grid de menu y el grid de juego -->
+    <Grid x:Name="MainGrid">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Menu de Juego (2x6), Este grid es estático y todos sus elementos hijos se definen acontinuación -->
+        <Grid x:Name="MenuGrid" Margin="25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Etiqueta que llevará el logo del juego -->
+            <Label x:Name="GameIconLabel"
+                   Grid.Column="0"
+                   Grid.Row="0"
+                   Grid.ColumnSpan="2"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   Width="200"
+                   Height="65"/>
+
+            <Label x:Name="PlayerNameLabel"
+                   Content="Nombre:"
+                   FontSize="25"
+                   Foreground="Azure"
+                   VerticalContentAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   HorizontalContentAlignment="Left"
+                   HorizontalAlignment="Left"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   Height="50"
+                   Width="125"/>
+
+            <!-- Caja de texto donde el usuario puede poner su nombre. Se le asignará un nombre por defecto -->
+            <TextBox x:Name="PlayerNameTextBox"
+                     FontSize="25"
+                     VerticalContentAlignment="Center"
+                     VerticalAlignment="Bottom"
+                     HorizontalContentAlignment="Center"
+                     HorizontalAlignment="Right"
+                     Grid.Row="1"
+                     Grid.Column="0"
+                     Grid.ColumnSpan="2"
+                     Cursor="IBeam"
+                     Height="50"
+                     Width="225"/>
+
+            <Label x:Name="TypeOfGameLabel"
+                   Content="Tipo de Juego"
+                   FontSize="15"
+                   Foreground="Azure"
+                   HorizontalContentAlignment="Center"
+                   VerticalContentAlignment="Bottom"
+                   Grid.Row="2"
+                   Grid.Column="0"/>
+
+            <Label x:Name="SizeOfGridLabel"
+                   Content="Tamaño del Tablero"
+                   FontSize="15"
+                   Foreground="Azure"
+                   HorizontalContentAlignment="Center"
+                   VerticalContentAlignment="Bottom"
+                   Grid.Row="2"
+                   Grid.Column="1"/>
+
+            <!-- Botón para iniciar una partida de un jugador contra la maquina -->
+            <Button x:Name="SinglePlayer" Content="Un Jugador" 
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="0" 
+                    Grid.Row="3" 
+                    HorizontalAlignment="Left"
+                    Click="SinglePlayer_OnClick" 
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+            <!-- Botón para empezar una partida multijugador -->
+            <Button x:Name="MultiPlayer" Content="Multijugador"
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="0" 
+                    Grid.Row="4"
+                    HorizontalAlignment="Left"
+                    Click="MultiPlayer_OnClick"
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+            <!-- Botón para cerrar el juego -->
+            <Button x:Name="Close" Content="Salir"
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="0"
+                    Grid.Row="5"
+                    HorizontalAlignment="Left"
+                    Click="Close_OnClick"
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+            <!-- Botón para cambiar el tamaño del tablero de juego a pequeño (5x5) -->
+            <Button x:Name="SmallGrid" Content="Pequeño"
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Opacity="0.75"
+                    Click="SmallGrid_OnClick"
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+            <!-- Botón para cambiar el tamaño del tablero de juego a mediano (7x7) -->
+            <Button x:Name="MediumGrid" Content="Mediano"
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="1"
+                    Grid.Row="4"  
+                    Opacity="1"
+                    Click="MediumGrid_OnClick"
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+            <!-- Botón para cambiar el tamaño del tablero de juego a grande (9x9) -->
+            <Button x:Name="LargeGrid" Content="Grande"
+                    Foreground="Azure"
+                    FontSize="15"
+                    Grid.Column="1"
+                    Grid.Row="5"
+                    Opacity="0.75"
+                    Click="BigGrid_OnClick"
+                    Cursor="Hand"
+                    Height="50"
+                    Width="150"/>
+
+        </Grid>
+
+        <!-- Tablero de Juego (Tamaño Variable). Este se crea dinamicamente segun el tamaño que que elija el usuario -->
+        <Grid x:Name="GameGrid" Visibility="Hidden"/>
+
+    </Grid>
+
+</Window>

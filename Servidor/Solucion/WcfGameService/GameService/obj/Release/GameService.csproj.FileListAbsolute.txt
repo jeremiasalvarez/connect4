@@ -1,0 +1,14 @@
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\bin\Release\GameService.dll.config
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\bin\Release\GameService.dll
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\bin\Release\GameService.pdb
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\obj\Release\GameService.csprojAssemblyReference.cache
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\obj\Release\GameService.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\obj\Release\GameService.dll
+C:\Users\fede\Desktop\connect4\WcfGameService\GameService\obj\Release\GameService.pdb
+C:\Users\fede\Desktop\WcfGameService\GameService\bin\Release\GameService.dll.config
+C:\Users\fede\Desktop\WcfGameService\GameService\bin\Release\GameService.dll
+C:\Users\fede\Desktop\WcfGameService\GameService\bin\Release\GameService.pdb
+C:\Users\fede\Desktop\WcfGameService\GameService\obj\Release\GameService.csprojAssemblyReference.cache
+C:\Users\fede\Desktop\WcfGameService\GameService\obj\Release\GameService.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\WcfGameService\GameService\obj\Release\GameService.dll
+C:\Users\fede\Desktop\WcfGameService\GameService\obj\Release\GameService.pdb
